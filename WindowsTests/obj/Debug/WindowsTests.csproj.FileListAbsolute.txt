@@ -1,0 +1,9 @@
+C:\Users\kidevelop\Desktop\뉴럴액션(서류,소스코드,실행파일,데이터셋)\Source\Practical\Predict\WindowsTests\bin\Debug\WindowsTests.exe.config
+C:\Users\kidevelop\Desktop\뉴럴액션(서류,소스코드,실행파일,데이터셋)\Source\Practical\Predict\WindowsTests\bin\Debug\WindowsTests.exe
+C:\Users\kidevelop\Desktop\뉴럴액션(서류,소스코드,실행파일,데이터셋)\Source\Practical\Predict\WindowsTests\bin\Debug\WindowsTests.pdb
+C:\Users\kidevelop\Desktop\뉴럴액션(서류,소스코드,실행파일,데이터셋)\Source\Practical\Predict\WindowsTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kidevelop\Desktop\뉴럴액션(서류,소스코드,실행파일,데이터셋)\Source\Practical\Predict\WindowsTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kidevelop\Desktop\뉴럴액션(서류,소스코드,실행파일,데이터셋)\Source\Practical\Predict\WindowsTests\obj\Debug\WindowsTests.csprojResolveAssemblyReference.cache
+C:\Users\kidevelop\Desktop\뉴럴액션(서류,소스코드,실행파일,데이터셋)\Source\Practical\Predict\WindowsTests\obj\Debug\WindowsTests.csproj.CoreCompileInputs.cache
+C:\Users\kidevelop\Desktop\뉴럴액션(서류,소스코드,실행파일,데이터셋)\Source\Practical\Predict\WindowsTests\obj\Debug\WindowsTests.exe
+C:\Users\kidevelop\Desktop\뉴럴액션(서류,소스코드,실행파일,데이터셋)\Source\Practical\Predict\WindowsTests\obj\Debug\WindowsTests.pdb
