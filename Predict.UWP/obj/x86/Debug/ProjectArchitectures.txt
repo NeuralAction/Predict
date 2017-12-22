@@ -1,0 +1,2 @@
+C:\Users\kidevelop\Desktop\12_21_neuralaction\NeuralAction\Predict\Predict.UWP\Predict.UWP.csproj;x86
+C:\Users\kidevelop\Desktop\12_21_neuralaction\NeuralAction\Predict\Predict\Predict.csproj;neutral
