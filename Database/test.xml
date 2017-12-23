@@ -5418,7 +5418,7 @@
   <Data>
     <Name>fate</Name>
     <Code>fate</Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>dropped</Name>
@@ -58243,7 +58243,7 @@
   <Data>
     <Name>kangaroo</Name>
     <Code>kangaroo</Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>navigator</Name>
@@ -59158,7 +59158,7 @@
   <Data>
     <Name>hi</Name>
     <Code>hi</Code>
-    <Count>2</Count>
+    <Count>3</Count>
   </Data>
   <Data>
     <Name>elimination</Name>
@@ -66248,6 +66248,26 @@
   <Data>
     <Name>hello</Name>
     <Code>hello</Code>
-    <Count>4</Count>
+    <Count>6</Count>
+  </Data>
+  <Data>
+    <Name>k-on</Name>
+    <Code>k-on</Code>
+    <Count>2</Count>
+  </Data>
+  <Data>
+    <Name>kono</Name>
+    <Code>kono</Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>fuck</Name>
+    <Code>fuck</Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>kt</Name>
+    <Code>kt</Code>
+    <Count>0</Count>
   </Data>
 </DocumentElement>

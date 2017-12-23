@@ -8,8 +8,7 @@ namespace WindowsTests
 {
     class Numpy
     {
-
-        public float[] cumsum(float[] arr)
+        public float[] CumSum(float[] arr)
         {
             int size = arr.Length;
             float temp = 0;
@@ -28,15 +27,12 @@ namespace WindowsTests
             return result;
         }
 
-        public int searchsorted(float[] arr, double v)
+        public int SearchSorted(float[] arr, double v)
         {
-            float result;
             int size = arr.Length;
 
-            for(int i = 0; i < size; i++ )
+            for (int i = 0; i < size; i++)
             {
-
-
                 if (i == 0)
                 {
                     if (arr[i] == v || arr[i] > v)
@@ -45,29 +41,33 @@ namespace WindowsTests
                     }
                 }
 
-                    if (arr[i] < v) {
-                        continue;
-                    } else if(arr[i] == v ) {
-                        return i;
-                    } else if(arr[i] > v) {
+                if (arr[i] < v)
+                {
+                    continue;
+                }
+                else if (arr[i] == v)
+                {
+                    return i;
+                }
+                else if (arr[i] > v)
+                {
                     return i - 1;
-                    }
+                }
 
-                    if (i == size - 1)
+                if (i == size - 1)
+                {
+                    if (arr[i] == v || arr[i] < v)
                     {
-                        if (arr[i] == v || arr[i] < v)
-                        {
-                            return i - 1;
-                        }
-                    }
-                    else if (arr[i] > v)
-                    {
-                        return i;
+                        return i - 1;
                     }
                 }
+                else if (arr[i] > v)
+                {
+                    return i;
+                }
+            }
 
             return 0;
         }
-
     }
 }

@@ -3028,12 +3028,12 @@
   <Data>
     <Name>그러면</Name>
     <Code>ㄱ ㅡ ㄹ ㅓ ㅁ ㅕ ㄴ </Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>그러므로</Name>
     <Code>ㄱ ㅡ ㄹ ㅓ ㅁ ㅡ ㄹ ㅗ </Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>그러하다</Name>
@@ -3063,7 +3063,7 @@
   <Data>
     <Name>그럼</Name>
     <Code>ㄱ ㅡ ㄹ ㅓ ㅁ </Code>
-    <Count>0</Count>
+    <Count>3</Count>
   </Data>
   <Data>
     <Name>그렇게</Name>
@@ -4878,7 +4878,7 @@
   <Data>
     <Name>너무나</Name>
     <Code>ㄴ ㅓ ㅁ ㅜ ㄴ ㅏ </Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>너희</Name>
@@ -15558,7 +15558,7 @@
   <Data>
     <Name>아아</Name>
     <Code>ㅇ ㅏ ㅇ ㅏ </Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>아예</Name>
@@ -15678,12 +15678,12 @@
   <Data>
     <Name>안</Name>
     <Code>ㅇ ㅏ ㄴ </Code>
-    <Count>0</Count>
+    <Count>3</Count>
   </Data>
   <Data>
     <Name>안개</Name>
     <Code>ㅇ ㅏ ㄴ ㄱ ㅐ </Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>안경</Name>
@@ -15713,7 +15713,7 @@
   <Data>
     <Name>안녕</Name>
     <Code>ㅇ ㅏ ㄴ ㄴ ㅕ ㅇ </Code>
-    <Count>0</Count>
+    <Count>7</Count>
   </Data>
   <Data>
     <Name>안녕하다</Name>
@@ -18778,7 +18778,7 @@
   <Data>
     <Name>음</Name>
     <Code>ㅇ ㅡ ㅁ </Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>음력</Name>
@@ -18988,7 +18988,7 @@
   <Data>
     <Name>이것</Name>
     <Code>ㅇ ㅣ ㄱ ㅓ ㅅ </Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>이것저것</Name>
@@ -19658,7 +19658,7 @@
   <Data>
     <Name>일</Name>
     <Code>ㅇ ㅣ ㄹ </Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>일곱</Name>
@@ -20808,7 +20808,7 @@
   <Data>
     <Name>저</Name>
     <Code>ㅈ ㅓ </Code>
-    <Count>0</Count>
+    <Count>1</Count>
   </Data>
   <Data>
     <Name>저거</Name>
@@ -27763,7 +27763,7 @@
   <Data>
     <Name>안녕하세요</Name>
     <Code>ㅇ ㅏ ㄴ ㄴ ㅕ ㅇ ㅎ ㅏ ㅅ ㅔ ㅇ ㅛ </Code>
-    <Count>0</Count>
+    <Count>5</Count>
   </Data>
   <Data>
     <Name>감사합니다</Name>
@@ -27774,5 +27774,130 @@
     <Name>가세요</Name>
     <Code>ㄱ ㅏ ㅅ ㅔ ㅇ ㅛ </Code>
     <Count>2</Count>
+  </Data>
+  <Data>
+    <Name>흠</Name>
+    <Code>ㅎ ㅡ ㅁ </Code>
+    <Count>1</Count>
+  </Data>
+  <Data>
+    <Name>그렇구나</Name>
+    <Code>ㄱ ㅡ ㄹ ㅓ ㅎ ㄱ ㅜ ㄴ ㅏ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>안녕하세여</Name>
+    <Code>ㅇ ㅏ ㄴ ㄴ ㅕ ㅇ ㅎ ㅏ ㅅ ㅔ ㅇ ㅕ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>안녕하구나</Name>
+    <Code>ㅇ ㅏ ㄴ ㄴ ㅕ ㅇ ㅎ ㅏ ㄱ ㅜ ㄴ ㅏ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>d</Name>
+    <Code>d</Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>안안안</Name>
+    <Code>ㅇ ㅏ ㄴ ㅇ ㅏ ㄴ ㅇ ㅏ ㄴ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>저는</Name>
+    <Code>ㅈ ㅓ ㄴ ㅡ ㄴ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>저,</Name>
+    <Code>ㅈ ㅓ ,</Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>이것은</Name>
+    <Code>ㅇ ㅣ ㄱ ㅓ ㅅ ㅇ ㅡ ㄴ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>슬픈</Name>
+    <Code>ㅅ ㅡ ㄹ ㅍ ㅡ ㄴ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>입니다</Name>
+    <Code>ㅇ ㅣ ㅂ ㄴ ㅣ ㄷ ㅏ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>당신도</Name>
+    <Code>ㄷ ㅏ ㅇ ㅅ ㅣ ㄴ ㄷ ㅗ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>알수있듯이</Name>
+    <Code>ㅇ ㅏ ㄹ ㅅ ㅜ ㅇ ㅣ ㅆ ㄷ ㅡ ㅅ ㅇ ㅣ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>화창</Name>
+    <Code>ㅎ ㅘ ㅊ ㅏ ㅇ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>화창한</Name>
+    <Code>ㅎ ㅘ ㅊ ㅏ ㅇ ㅎ ㅏ ㄴ </Code>
+    <Count>1</Count>
+  </Data>
+  <Data>
+    <Name>날씨입니다</Name>
+    <Code>ㄴ ㅏ ㄹ ㅆ ㅣ ㅇ ㅣ ㅂ ㄴ ㅣ ㄷ ㅏ </Code>
+    <Count>1</Count>
+  </Data>
+  <Data>
+    <Name>예회</Name>
+    <Code>ㅇ ㅖ ㅎ ㅚ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>이러한</Name>
+    <Code>ㅇ ㅣ ㄹ ㅓ ㅎ ㅏ ㄴ </Code>
+    <Count>1</Count>
+  </Data>
+  <Data>
+    <Name>고</Name>
+    <Code>ㄱ ㅗ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>구레</Name>
+    <Code>ㄱ ㅜ ㄹ ㅔ </Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>그ㅇ</Name>
+    <Code>ㄱ ㅡ ㅇ</Code>
+    <Count>1</Count>
+  </Data>
+  <Data>
+    <Name>123</Name>
+    <Code>123</Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>2</Name>
+    <Code>2</Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>ㅇㄹ</Name>
+    <Code>ㅇㄹ</Code>
+    <Count>0</Count>
+  </Data>
+  <Data>
+    <Name>ㄹㄷ</Name>
+    <Code>ㄹㄷ</Code>
+    <Count>0</Count>
   </Data>
 </DocumentElement>

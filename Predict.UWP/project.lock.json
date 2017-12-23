@@ -22659,23 +22659,23 @@
     "UAP,Version=v10.0.10586": []
   },
   "packageFolders": {
-    "C:\\Users\\kidevelop\\.nuget\\packages\\": {},
+    "C:\\Users\\AinL\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\kidevelop\\Desktop\\12_21_neuralaction\\NeuralAction\\Predict\\Predict.UWP\\Predict.UWP.csproj",
+      "projectUniqueName": "C:\\Library\\Predict\\Predict.UWP\\Predict.UWP.csproj",
       "projectName": "Predict.UWP",
-      "projectPath": "C:\\Users\\kidevelop\\Desktop\\12_21_neuralaction\\NeuralAction\\Predict\\Predict.UWP\\Predict.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\kidevelop\\Desktop\\12_21_neuralaction\\NeuralAction\\Predict\\Predict.UWP\\project.json",
-      "packagesPath": "C:\\Users\\kidevelop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kidevelop\\Desktop\\12_21_neuralaction\\NeuralAction\\Predict\\Predict.UWP\\obj\\",
+      "projectPath": "C:\\Library\\Predict\\Predict.UWP\\Predict.UWP.csproj",
+      "projectJsonPath": "C:\\Library\\Predict\\Predict.UWP\\project.json",
+      "packagesPath": "C:\\Users\\AinL\\.nuget\\packages\\",
+      "outputPath": "C:\\Library\\Predict\\Predict.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\kidevelop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AinL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -22686,8 +22686,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\kidevelop\\Desktop\\12_21_neuralaction\\NeuralAction\\Predict\\Predict\\Predict.csproj": {
-              "projectPath": "C:\\Users\\kidevelop\\Desktop\\12_21_neuralaction\\NeuralAction\\Predict\\Predict\\Predict.csproj"
+            "C:\\Library\\Predict\\Predict\\Predict.csproj": {
+              "projectPath": "C:\\Library\\Predict\\Predict\\Predict.csproj"
             }
           }
         }
